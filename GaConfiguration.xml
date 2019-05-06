@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ga>
+
+  <parameters>
+   
+    <set parameter="DNA_SIZE" value="20" />
+    <set parameter="POP_SIZE" value="100" />
+    <set parameter="CROSS_RATE" value="0.7" />
+    <set parameter="MUTATION_RATE" value="0.7" />
+    <set parameter="N_GENERATIONS" value="100" />
+    <set parameter="N_KID" value="50" />
+
+
+
+  </parameters>
+
+
+</ga>
+
+
