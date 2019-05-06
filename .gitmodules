@@ -1,0 +1,3 @@
+[submodule "StigSim_1D"]
+	path = StigSim_1D
+	url = https://github.com/majdkassawat/StigSim_1D.git
