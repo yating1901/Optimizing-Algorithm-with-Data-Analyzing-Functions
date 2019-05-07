@@ -1,5 +1,5 @@
 # Project Title
-Optimizing-Algorithm-and-Data-Analyze-Functions
+Optimizing-Algorithm-with-Data-Analyzing-Functions
 
 ## Version Control
 The codes are written based on the python 3.7.
@@ -9,7 +9,7 @@ You have to clone the repository with the submodules.
 All the script should be put in the same folder, inciuding the reports generated and saved by the codes.
 
 ## Excuting Order
-* First, write the configuration of optimizing algorithm in the Gaconfiguration.xml， and pass the file to start the algorithm.
+* First, write the configuration of optimizing algorithm in the Gaconfiguration.xml, and pass the file to start the algorithm.
 ```
 ga_config_file_path="GaConfiguration.xml"
 ga=ES(ga_config_file_path)
